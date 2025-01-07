@@ -24,10 +24,10 @@
 ---
 
 ## Usage
-- **Launch the App: Run the app.py file to start the application.
-- **Upload an Image: Use the file uploader to submit an image of the skin lesion.
-- **Analyze the Image: Click on "Analyze Image" to process the uploaded image.
-- **View Results: The app will display the predicted condition and offer an explanation along with advice.
+- Launch the App: Run the app.py file to start the application.
+- Upload an Image: Use the file uploader to submit an image of the skin lesion.
+- Analyze the Image: Click on "Analyze Image" to process the uploaded image.
+- View Results: The app will display the predicted condition and offer an explanation along with advice.
 
 ---
 
